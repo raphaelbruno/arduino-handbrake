@@ -4,11 +4,11 @@
 
 - 1x Arduino Pro Micro
 
-  ![Arduino Pro Micro](assets/pro-micro.png "Arduino Pro Micro")
+  ![Arduino Pro Micro](assets/pro-micro.jpg "Arduino Pro Micro")
 
 - 1x Potentiometer B10k (You can try others values)
 
-  ![Potentiometer](assets/potentiometer.png "Potentiometer")
+  ![Potentiometer](assets/potentiometer.jpg "Potentiometer")
 
 - 1x Handbrake Estructure
 
